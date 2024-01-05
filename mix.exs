@@ -19,7 +19,9 @@ defmodule TableauExt.MixProject do
 
   defp deps do
     [
-      {:tableau, "~> 0.14"}
+      # {:tableau, "~> 0.14"}
+      # {:tableau, path: "~/zz/tableau"}
+      {:tableau, github: "andyl/tableau", branch: "basepath_routing"},
     ]
   end
 end
