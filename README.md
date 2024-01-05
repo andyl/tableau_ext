@@ -1,10 +1,8 @@
 # TableauExt
 
-This repo has [Tableau](https://github.com/elixir-tools/tableau) extensions. 
-
-It is primarily for personal use and experimentation.
-
-Feel free to give it a try or ask me questions.
+This repo has [Tableau](https://github.com/elixir-tools/tableau) extensions. It
+is primarily for personal use and experimentation. Feel free to give it a try
+or ask me questions!
 
 ## Extensions 
 
