@@ -5,7 +5,7 @@ defmodule TableauExt.MixProject do
     [
       app: :tableau_ext,
       version: "0.1.0",
-      elixir: "~> 1.16",
+      elixir: "~> 1.17",
       start_permanent: Mix.env() == :prod,
       deps: deps()
     ]
@@ -19,7 +19,7 @@ defmodule TableauExt.MixProject do
 
   defp deps do
     [
-      {:tableau, "~> 0.15"}
+      {:tableau, "~> 0.17"}
     ]
   end
 end
