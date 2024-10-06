@@ -19,7 +19,8 @@ defmodule TableauExt.MixProject do
 
   defp deps do
     [
-      {:tableau, "~> 0.17"}
+      {:tableau, "~> 0.17"},
+      {:nimble_publisher, "~> 1.1"}
     ]
   end
 end
